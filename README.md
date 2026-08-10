@@ -1,24 +1,33 @@
 <div align="center">
 
-# Shlok Piprodiya
+# SHLOK PIPRODIYA
 
-### Computer Science Undergraduate · AI & Data Science
+### `COMPUTER SCIENCE • AI • DATA`
 
-Building machine learning systems, data-driven applications, and practical software products.
+**Building intelligent systems, useful products & real-world software.**
 
-<br/>
+[ Portfolio ](YOUR_PORTFOLIO_URL) · [ LinkedIn ](YOUR_LINKEDIN_URL) · [ Email ](mailto:YOUR_EMAIL)
 
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=googlechrome&logoColor=white" />
-</a>
-&nbsp;
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" />
-</a>
+</div>
+
+---
+
+```text
+                    .       .
+                 .    \   /    .
+              .        \ /        .
+           .------------●------------.
+              \        / \        /
+               \      /   \      /
+                \    /     \    /
+                 \  /       \  /
+                  \/         \/
+                  /\         /\
+                 /  \       /  \
+                /    \     /    \
+               /      \   /      \
+              /        \ /        \
+             ●----------●----------●</a>
 
 </div>
 
