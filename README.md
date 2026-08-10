@@ -1,29 +1,3 @@
-<div align="center">
-
-# SHLOK PIPRODIYA
-
-### `COMPUTER SCIENCE • AI • DATA`
-
-**Building intelligent systems, useful products & real-world software.**
-
-[ Portfolio ](YOUR_PORTFOLIO_URL) · [ LinkedIn ](YOUR_LINKEDIN_URL) · [ Email ](mailto:YOUR_EMAIL)
-
-</div>
-
----
-
-```text
-                    .       .
-                 .    \   /    .
-              .        \ /        .
-           .------------●------------.
-              \        / \        /
-               \      /   \      /
-                \    /     \    /
-                 \  /       \  /
-                  \/         \/
-                  /\         /\
-                 /  \       /  \
                 /    \     /    \
                /      \   /      \
               /        \ /        \
