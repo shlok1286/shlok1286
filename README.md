@@ -3,11 +3,7 @@
 <img src="./identity-card.png" alt="Shlok Piprodiya — Developer Identification Card" width="100%">
 
 <br>
-<div align="center">
 
-<img src="./Gemini_Generated_Image_tm5c8qtm5c8qtm5c.png" width="100%" alt="Shlok Piprodiya — Developer Identification Card">
-
-<br>
 
 # SHLOK PIPRODIYA
 
