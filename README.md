@@ -2,105 +2,160 @@
 
 <img src="./identity-card.png" alt="Shlok Piprodiya — Developer Identification Card" width="100%">
 
-<br>
-
+<br><br>
 
 # SHLOK PIPRODIYA
 
 ### `SOFTWARE ENGINEER // FULL-STACK DEVELOPER`
 
-**Building software across full-stack development, backend systems, data science & machine learning.**
+<p align="center">
+Building software across full-stack architectures, backend systems, and data-driven intelligence.
+</p>
 
-<br>
+<p align="center">
+  <a href="https://github.com/shlok1286"><img src="https://img.shields.io/badge/STATUS-ACTIVE-C88A58?style=flat-square" alt="Status Active"></a>
+  <a href="https://github.com/shlok1286"><img src="https://img.shields.io/badge/PROGRAM-CSE%202024--2028-21262D?style=flat-square" alt="Program"></a>
+  <a href="https://github.com/shlok1286"><img src="https://img.shields.io/badge/BASE-SURAT%2C%20IN-21262D?style=flat-square" alt="Base Surat"></a>
+  <a href="https://github.com/shlok1286"><img src="https://img.shields.io/badge/CAMPUS-CHARUSAT%20%2F%20DEPSTAR-21262D?style=flat-square" alt="Campus"></a>
+</p>
 
-[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/shlok1286)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/shlok-piprodiya-3075a91ba)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://shlokpiprodiya.vercel.app/)
-[![NPM](https://img.shields.io/badge/NPM-000000?style=for-the-badge&logo=npm&logoColor=ffffff)](https://www.npmjs.com/package/auth12)
+<p align="center">
+  <a href="https://github.com/shlok1286"><img src="https://img.shields.io/badge/GITHUB-21262D?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/shlok-piprodiya-3075a91ba"><img src="https://img.shields.io/badge/LINKEDIN-21262D?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn"></a>
+  <a href="https://shlokpiprodiya.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-21262D?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Portfolio"></a>
+  <a href="https://www.npmjs.com/package/auth12"><img src="https://img.shields.io/badge/NPM-21262D?style=for-the-badge&logo=npm&logoColor=ffffff" alt="NPM"></a>
+</p>
 
 </div>
 
 ---
 
+```text
+IDENTIFICATION :: SHLOK PIPRODIYA
+ROLE           :: SOFTWARE ENGINEER // FULL-STACK DEVELOPER
+DOMAIN         :: COMPUTER SCIENCE & ENGINEERING
+COORDINATES    :: SURAT, GUJARAT, INDIA [21.1702° N, 72.8311° E]
+CURRENT FOCUS  :: SCALABLE WEB SYSTEMS · ARCHITECTURE · MACHINE LEARNING
+```
+
+---
+
 ## `01` // TECHNICAL PROFILE
 
-### FRONTEND
+> **SYSTEM CAPABILITIES & CORE STACK** &nbsp;`[SPEC-2026]`
 
-![React](https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=ffffff)
-![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=ffffff)
-![Vite](https://img.shields.io/badge/VITE-000000?style=for-the-badge&logo=vite&logoColor=ffffff)
-![Tailwind CSS](https://img.shields.io/badge/TAILWIND_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=ffffff)
+<table>
+<tr>
+<th width="50%" align="left"><code>01.1</code> &nbsp; CLIENT-SIDE ARCHITECTURE</th>
+<th width="50%" align="left"><code>01.2</code> &nbsp; SERVER & RUNTIME SYSTEMS</th>
+</tr>
+<tr>
+<td valign="top">
+
+### FRONTEND
+<sub>Responsive user interfaces, component systems & web standards</sub>
+
+<br>
+
+<a href="https://react.dev"><img src="https://img.shields.io/badge/React-21262D?style=flat-square&logo=react&logoColor=F0F6FC" alt="React"></a>
+<a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next.js-21262D?style=flat-square&logo=nextdotjs&logoColor=F0F6FC" alt="Next.js"></a>
+<a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-21262D?style=flat-square&logo=typescript&logoColor=F0F6FC" alt="TypeScript"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-21262D?style=flat-square&logo=javascript&logoColor=F0F6FC" alt="JavaScript"></a>
+<a href="https://vitejs.dev"><img src="https://img.shields.io/badge/Vite-21262D?style=flat-square&logo=vite&logoColor=F0F6FC" alt="Vite"></a>
+<a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind_CSS-21262D?style=flat-square&logo=tailwindcss&logoColor=F0F6FC" alt="Tailwind CSS"></a>
+
+<br><br>
+
+- **Core Frameworks:** React · Next.js · Vite
+- **Languages:** TypeScript · JavaScript (ES6+)
+- **Interface Styling:** Tailwind CSS · Modern Layouts
+
+</td>
+<td valign="top">
 
 ### BACKEND
+<sub>Microservices, RESTful interfaces & server architectures</sub>
 
-![Node.js](https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)
-![Express](https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=ffffff)
-![Flask](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=ffffff)
-![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logoColor=ffffff)
+<br>
+
+<a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-21262D?style=flat-square&logo=nodedotjs&logoColor=F0F6FC" alt="Node.js"></a>
+<a href="https://expressjs.com"><img src="https://img.shields.io/badge/Express-21262D?style=flat-square&logo=express&logoColor=F0F6FC" alt="Express"></a>
+<a href="https://flask.palletsprojects.com"><img src="https://img.shields.io/badge/Flask-21262D?style=flat-square&logo=flask&logoColor=F0F6FC" alt="Flask"></a>
+<a href="https://restfulapi.net"><img src="https://img.shields.io/badge/REST_APIs-21262D?style=flat-square&logoColor=F0F6FC" alt="REST APIs"></a>
+
+<br><br>
+
+- **Runtimes & Frameworks:** Node.js · Express · Flask
+- **Communication:** RESTful APIs · Endpoint Architecture
+- **Infrastructure:** Server Logic · Middleware · Authentication
+
+</td>
+</tr>
+<tr>
+<th width="50%" align="left"><code>01.3</code> &nbsp; INTELLIGENCE & DATA PIPELINES</th>
+<th width="50%" align="left"><code>01.4</code> &nbsp; DATA PERSISTENCE & SCHEMAS</th>
+</tr>
+<tr>
+<td valign="top">
 
 ### DATA SCIENCE & MACHINE LEARNING
+<sub>Analytical computing, pattern modeling & intelligent workflows</sub>
 
-![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=ffffff)
-![Pandas](https://img.shields.io/badge/PANDAS-000000?style=for-the-badge&logo=pandas&logoColor=ffffff)
-![NumPy](https://img.shields.io/badge/NUMPY-000000?style=for-the-badge&logo=numpy&logoColor=ffffff)
-![Scikit Learn](https://img.shields.io/badge/SCIKIT--LEARN-000000?style=for-the-badge&logo=scikitlearn&logoColor=ffffff)
-![Streamlit](https://img.shields.io/badge/STREAMLIT-000000?style=for-the-badge&logo=streamlit&logoColor=ffffff)
+<br>
 
-### DATABASES
+<a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-21262D?style=flat-square&logo=python&logoColor=F0F6FC" alt="Python"></a>
+<a href="https://pandas.pydata.org"><img src="https://img.shields.io/badge/Pandas-21262D?style=flat-square&logo=pandas&logoColor=F0F6FC" alt="Pandas"></a>
+<a href="https://numpy.org"><img src="https://img.shields.io/badge/NumPy-21262D?style=flat-square&logo=numpy&logoColor=F0F6FC" alt="NumPy"></a>
+<a href="https://scikit-learn.org"><img src="https://img.shields.io/badge/Scikit--Learn-21262D?style=flat-square&logo=scikitlearn&logoColor=F0F6FC" alt="Scikit-Learn"></a>
+<a href="https://streamlit.io"><img src="https://img.shields.io/badge/Streamlit-21262D?style=flat-square&logo=streamlit&logoColor=F0F6FC" alt="Streamlit"></a>
 
-![MongoDB](https://img.shields.io/badge/MONGODB-000000?style=for-the-badge&logo=mongodb&logoColor=ffffff)
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=ffffff)
-![Prisma](https://img.shields.io/badge/PRISMA-000000?style=for-the-badge&logo=prisma&logoColor=ffffff)
-![Supabase](https://img.shields.io/badge/SUPABASE-000000?style=for-the-badge&logo=supabase&logoColor=ffffff)
+<br><br>
 
-### TOOLS & PLATFORMS
+- **Core Language:** Python 3
+- **Data Engineering:** Pandas · NumPy
+- **Machine Learning:** Scikit-learn
+- **Dashboard Prototyping:** Streamlit
 
-![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=ffffff)
-![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=ffffff)
-![Razorpay](https://img.shields.io/badge/RAZORPAY-000000?style=for-the-badge&logo=razorpay&logoColor=ffffff)
+</td>
+<td valign="top">
 
----
+### DATABASES & STORAGE
+<sub>Structured records, document storage & object-relational mapping</sub>
 
-## `02` // CURRENT FOCUS
+<br>
 
-<table>
+<a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-21262D?style=flat-square&logo=postgresql&logoColor=F0F6FC" alt="PostgreSQL"></a>
+<a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/MongoDB-21262D?style=flat-square&logo=mongodb&logoColor=F0F6FC" alt="MongoDB"></a>
+<a href="https://supabase.com"><img src="https://img.shields.io/badge/Supabase-21262D?style=flat-square&logo=supabase&logoColor=F0F6FC" alt="Supabase"></a>
+<a href="https://www.prisma.io"><img src="https://img.shields.io/badge/Prisma-21262D?style=flat-square&logo=prisma&logoColor=F0F6FC" alt="Prisma"></a>
+
+<br><br>
+
+- **Relational Databases:** PostgreSQL · Supabase
+- **Document Store:** MongoDB
+- **ORM & Data Layer:** Prisma ORM
+
+</td>
+</tr>
 <tr>
-<td align="center" width="25%">
+<th colspan="2" align="left"><code>01.5</code> &nbsp; ECOSYSTEM, INFRASTRUCTURE & PLATFORMS</th>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
-### SOFTWARE
-ENGINEERING
+<a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-21262D?style=flat-square&logo=git&logoColor=F0F6FC" alt="Git"></a>
+&nbsp;
+<a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-21262D?style=flat-square&logo=github&logoColor=F0F6FC" alt="GitHub"></a>
+&nbsp;
+<a href="https://www.docker.com"><img src="https://img.shields.io/badge/Docker-21262D?style=flat-square&logo=docker&logoColor=F0F6FC" alt="Docker"></a>
+&nbsp;
+<a href="https://razorpay.com"><img src="https://img.shields.io/badge/Razorpay-21262D?style=flat-square&logo=razorpay&logoColor=F0F6FC" alt="Razorpay"></a>
 
-Building practical software and developer-focused systems.
+<br><br>
 
-</td>
-
-<td align="center" width="25%">
-
-### FULL-STACK
-DEVELOPMENT
-
-Modern interfaces, APIs and complete web applications.
-
-</td>
-
-<td align="center" width="25%">
-
-### BACKEND
-SYSTEMS
-
-APIs, authentication, databases and application architecture.
-
-</td>
-
-<td align="center" width="25%">
-
-### DATA
-& ML
-
-Data analysis, machine learning and data-driven applications.
+- **Version Control:** Git · GitHub Enterprise / Open Source
+- **Containerization:** Docker
+- **Financial Infrastructure:** Razorpay Payment Gateway Integration
 
 </td>
 </tr>
@@ -108,156 +163,64 @@ Data analysis, machine learning and data-driven applications.
 
 ---
 
-## `03` // EDUCATION
+## `02` // EDUCATION
 
-### B.Tech Computer Science & Engineering
-
-**CHARUSAT / DEPSTAR**
-
-`2024 — 2028`
-
-`SURAT, GUJARAT, INDIA`
-
----
-
-## `04` // SELECTED WORK
+> **ACADEMIC RECORD & INSTITUTIONAL AFFILIATION** &nbsp;`[REC-2024]`
 
 <table>
 <tr>
+<td width="62%" valign="top">
 
-<td width="50%">
+<sub>DEGREE PROGRAM</sub>
+### B.TECH IN COMPUTER SCIENCE & ENGINEERING
+**Undergraduate Program in Engineering**
 
-### AUTH12
+<br>
 
-`DEVELOPER TOOL`
-
-Authentication infrastructure for developers.
-
-```bash
-npx auth12
-````markdown
-## `04` // SELECTED WORK
-
-<table>
-<tr>
-
-<td width="50%">
-
-### AUTH12
-
-`DEVELOPER TOOL`
-
-Authentication infrastructure for developers.
-
-```bash
-npx auth12
-````
-
-[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge\&logo=github\&logoColor=ffffff)](https://github.com/shlok1286/AuthenticationModule)
-
-[![NPM](https://img.shields.io/badge/NPM-000000?style=for-the-badge\&logo=npm\&logoColor=ffffff)](https://www.npmjs.com/package/auth12)
+<sub>INSTITUTION</sub><br>
+**CHARUSAT / DEPSTAR**  
+*Devang Patel Institute of Advance Technology and Research*  
+*Charotar University of Science and Technology*
 
 </td>
+<td width="38%" valign="top">
 
-<td width="50%">
+<sub>ACADEMIC PERIOD</sub><br>
+`2024 — 2028` &nbsp; <img src="https://img.shields.io/badge/STATUS-ACTIVE-C88A58?style=flat-square" alt="Active" height="18" style="vertical-align: middle;">
 
-### ALUMNISETU
+<br><br>
 
-`FULL-STACK PLATFORM`
+<sub>LOCATION BASE</sub><br>
+**Surat, Gujarat, India**
 
-Alumni–student connection platform.
+<br><br>
 
-`MERN` · `React` · `Node.js` · `MongoDB`
-
-[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge\&logo=github\&logoColor=ffffff)](https://github.com/shlok1286/AluminiSetu)
+<sub>DISCIPLINE</sub><br>
+**Computer Science & Engineering**
 
 </td>
-
 </tr>
-
-<tr>
-
-<td>
-
-### DELIVX
-
-`FULL-STACK PROJECT`
-
-A complete web application built around a modern full-stack architecture.
-
-`React` · `Node.js` · `MongoDB`
-
-</td>
-
-<td>
-
-### REVENUEIQ
-
-`DATA SCIENCE`
-
-Sales data analysis and visualization dashboard.
-
-`Python` · `Pandas` · `Streamlit`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-### SEGMENTRA
-
-`DATA SCIENCE`
-
-Customer segmentation and analysis project.
-
-`Python` · `Machine Learning` · `Streamlit`
-
-</td>
-
-<td>
-
-### GRADEPULSE
-
-`DATA SCIENCE`
-
-Student performance analysis application.
-
-`Python` · `Data Science` · `Streamlit`
-
-</td>
-
-</tr>
-
 </table>
 
 ---
 
-## `05` // EXPERIENCE
+## `03` // CONNECT
 
-### SYNENT TECHNOLOGIES
-
-**DATA SCIENCE INTERN**
-
-`15 MAY 2026 — 21 JUNE 2026`
-
-Data science, analytics and machine learning focused internship.
-
----
-
-## `06` // CONNECT
+> **COMMUNICATION CHANNELS & DIRECT REPOSITORIES**
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge\&logo=github\&logoColor=ffffff)](https://github.com/shlok1286)
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge\&logo=linkedin\&logoColor=ffffff)](https://linkedin.com/in/shlok-piprodiya-3075a91ba)
+<a href="https://github.com/shlok1286"><img src="https://img.shields.io/badge/GITHUB-21262D?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"></a>
+&nbsp;
+<a href="https://linkedin.com/in/shlok-piprodiya-3075a91ba"><img src="https://img.shields.io/badge/LINKEDIN-21262D?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn"></a>
+&nbsp;
+<a href="https://shlokpiprodiya.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-21262D?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Portfolio"></a>
+&nbsp;
+<a href="https://www.npmjs.com/package/auth12"><img src="https://img.shields.io/badge/NPM-21262D?style=for-the-badge&logo=npm&logoColor=ffffff" alt="NPM"></a>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge\&logo=vercel\&logoColor=ffffff)](https://shlokpiprodiya.vercel.app/)
-
-[![NPM](https://img.shields.io/badge/NPM-000000?style=for-the-badge\&logo=npm\&logoColor=ffffff)](https://www.npmjs.com/package/auth12)
+<br><br>
 
 </div>
 
@@ -269,11 +232,6 @@ Data science, analytics and machine learning focused internship.
 BUILD  →  LEARN  →  SHIP  →  REPEAT
 ```
 
-### `SHLOK PIPRODIYA`
-
-**SOFTWARE ENGINEER // FULL-STACK DEVELOPER**
-
-<sub>Computer Science & Engineering · CHARUSAT / DEPSTAR · Surat, India</sub>
+<sub>SHLOK PIPRODIYA &nbsp;•&nbsp; SOFTWARE ENGINEER // FULL-STACK DEVELOPER &nbsp;•&nbsp; SURAT, INDIA</sub>
 
 </div>
-```
