@@ -216,7 +216,7 @@ CURRENT FOCUS  :: SCALABLE WEB SYSTEMS · ARCHITECTURE · MACHINE LEARNING
 &nbsp;
 <a href="https://linkedin.com/in/shlok-piprodiya-3075a91ba"><img src="https://img.shields.io/badge/LINKEDIN-21262D?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn"></a>
 &nbsp;
-<a href="https://shlokpiprodiya.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-21262D?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Portfolio"></a>
+<a href="https://https://shlokiee.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-21262D?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Portfolio"></a>
 &nbsp;
 <a href="https://www.npmjs.com/package/auth12"><img src="https://img.shields.io/badge/NPM-21262D?style=for-the-badge&logo=npm&logoColor=ffffff" alt="NPM"></a>
 
