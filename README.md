@@ -1,9 +1,5 @@
 <div align="center">
-
-<img src="./identity-card.png" alt="Shlok Piprodiya — Developer Identification Card" width="100%">
-
-<br><br>
-
+  
 # SHLOK PIPRODIYA
 
 ### `SOFTWARE ENGINEER // FULL-STACK DEVELOPER`
